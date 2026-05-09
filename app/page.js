@@ -14,7 +14,7 @@ export default function DE77USIONStore() {
       id: 2,
       name: 'Void Tee',
       price: 590,
-      image:'/coretee2.jpg',
+      image:'/voidtee.jpg',
       description: 'Minimal washed black essential.',
       sizes: ['S', 'M', 'L']
     },
@@ -22,7 +22,7 @@ export default function DE77USIONStore() {
       id: 3,
       name: 'Noir Tee',
       price: 620,
-      image:'/coretee3.jpg',
+      image:'/noirtee.jpg',
       description: 'Luxury oversized streetwear fit.',
       sizes: ['M', 'L', 'XL']
     },
@@ -30,7 +30,7 @@ export default function DE77USIONStore() {
       id: 4,
       name: 'Static Tee',
       price: 560,
-      image:'/coretee4.jpg',
+      image:'/statictee.jpg',
       description: 'Premium heavyweight cotton.',
       sizes: ['S', 'M', 'L']
     },
@@ -38,7 +38,7 @@ export default function DE77USIONStore() {
       id: 5,
       name: 'Ghost Tee',
       price: 640,
-      image:'/coretee5.jpg',
+      image:'/ghosttee.jpg',
       description: 'Dark luxury first drop piece.',
       sizes: ['S', 'M', 'L', 'XL']
     }
