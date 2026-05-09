@@ -38,7 +38,7 @@ export default function DE77USIONStore() {
       id: 5,
       name: 'Ghost Tee',
       price: 640,
-      image:'/ghosttee.jpg',
+      image:'/ghostee.jpg',
       description: 'Dark luxury first drop piece.',
       sizes: ['S', 'M', 'L', 'XL']
     }
